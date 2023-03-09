@@ -1,4 +1,5 @@
 # Dappcord
+<img src="./Capture.PNG" />
 
 ## Technology Stack & Tools
 
